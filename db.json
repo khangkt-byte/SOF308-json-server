@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": "c896",
+      "title": "Đăng bài viết",
+      "content": "<h2>Đăng bài viết</h2>",
+      "thumbnail": "",
+      "authorId": 2,
+      "createdAt": "2025-06-17T15:16:03.841Z"
+    },
+    {
+      "id": "7eda",
+      "title": "Tiêu đề bài viết",
+      "content": "<p><strong>Tiêu đề bài viết</strong></p>",
+      "thumbnail": "",
+      "authorId": 2,
+      "createdAt": "2025-06-17T15:20:09.114Z"
+    },
+    {
+      "id": "eb04",
+      "title": "Tiêu đề bài viết",
+      "content": "<p><strong>Tiêu đề bài viết</strong></p>",
+      "thumbnail": "",
+      "authorId": 2,
+      "createdAt": "2025-06-17T15:21:01.361Z"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "fullName": "V-TEC CORPORATION",
+      "email": "vtec@corporation.com",
+      "phone": "(+84) 125-680-7412",
+      "birthday": "1990-01-01",
+      "address": "Bien Hoa City, Dong Nai Province, Viet Nam",
+      "avatar": "https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-chat/ava3.webp",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "hungvu",
+      "password": "admin",
+      "fullName": "V-TEC CORPORATION",
+      "email": "vtec@corporation.com",
+      "phone": "(+84) 125-680-7412",
+      "birthday": "1990-01-01",
+      "address": "Bien Hoa City, Dong Nai Province, Viet Nam",
+      "avatar": "https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-chat/ava3.webp",
+      "role": "user"
+    }
+  ],
+  "session": {
+    "userId": 2
+  }
+}
