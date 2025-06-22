@@ -216,25 +216,29 @@
       "id": "9523",
       "username": "d",
       "email": "d@gmail.com",
-      "password": "dddddd"
+      "password": "dddddd",
+      "roleId": 2
     },
     {
       "id": "eeef",
       "username": "a",
       "email": "a@gmail.com",
-      "password": "aaaaaa"
+      "password": "aaaaaa",
+      "roleId": 1
     },
     {
       "id": "1123",
       "username": "admin",
       "email": "admin@gmail.com",
-      "password": "admin"
+      "password": "admin",
+      "roleId": 1
     },
     {
       "id": "2234",
       "username": "user",
       "email": "user@gmail.com",
-      "password": "user"
+      "password": "user",
+      "roleId": 2
     }
   ],
   "roles": [
