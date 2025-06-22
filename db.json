@@ -223,6 +223,18 @@
       "username": "a",
       "email": "a@gmail.com",
       "password": "aaaaaa"
+    },
+    {
+      "id": "1123",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "2234",
+      "username": "user",
+      "email": "user@gmail.com",
+      "password": "user"
     }
   ],
   "roles": [
